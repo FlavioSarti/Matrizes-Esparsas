@@ -2,11 +2,12 @@
 Os programas elaborados correspondem a um trabalho para a disciplina SSC0300 - Linguagens de Programação e Aplicações, ministrada ao curso de Engenharia Mecânica pelo professor Adenilso Simão do Instituto de Ciências Matemáticas e Computação(ICMC - USP).
 
 
-Alunos: Flávio Henrique M. Sarti		      Número USP: 9312578	  GitHub username: FlavioSarti
-	      Elizabete Vindilino			          Número USP: 9312922	
-	      Vitor Eiti Uekawa 			          Número USP: 9012671 	
-	      Nicole Mendes Flores              Número USP:
-	      Érico Tadeu de Paula Vieira       Número USP: 9312727     
+Alunos: 
+Flávio Henrique Martins Sarti (9312578)
+Elizabete Vindilino (9312922)
+Vitor Eiti Uekawa   (9012671)
+Nicole Mendes Flores (9312599)
+Érico Tadeu de Paula Vieira   (9312727)
 	
 
 
